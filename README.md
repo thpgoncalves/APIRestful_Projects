@@ -34,12 +34,12 @@ To make it easier to upgrade and maintain the code in the future, the REST archi
 ## Screenshots:
 ### Back-end
 **Auth Middleware**
-![Auth_middleware](./img/auth_middleware.png)
+![Auth_middleware](./img/auth_middleware.PNG)
 
 Above is an example of the authentication middleware to grant access to specific routes.
 
 **Routes**
-![Routes](./img/notes_routes.png)
+![Routes](./img/notes_routes.PNG)
 
 Above is an example of the application using the authentication middleware to grant access to specific routes.
 
