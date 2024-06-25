@@ -32,39 +32,56 @@ Encryption technologies were used to store sensitive data such as passwords and 
 To make it easier to upgrade and maintain the code in the future, the REST architecture was adopted:
 
 ## Screenshots:
+### Back-end
+**Auth Middleware**
+![Auth_middleware](./img/auth_middleware.png)
 
-### Game Mode
-![Casino Experience](./Blackjack/img/game_mode.png)
+Above is an example of the authentication middleware to grant access to specific routes.
 
-Above is an example of using the Casino Experience mode, where the player chooses between the possible moves and plays against the Dealer.
+**Routes**
+![Routes](./img/notes_routes.png)
 
-### Simulation Mode
-![Simulation Mode](./Blackjack/img/simulation_mode.png)
+Above is an example of the application using the authentication middleware to grant access to specific routes.
 
-Above is an example of using the Simulation Mode, which simulates 100,000 games based on the strategies described in the files and returns the most important statistics.
+**Encryption used to save passwords**
+![Encryption](./img/user_service.png)
 
-### Hard Hand
-![Hard Hand](./Blackjack/img/hard_hand.jpg)
+### Database
+**User Data**
+![User_database](./img/user_database.png)
 
-Above is the diagram on which the strategy for playing all the possible Hard Hands combinations was based.
+Above is an example of how it stores User information.
 
-### Soft Hand
-![Soft Hand](./Blackjack/img/soft_hand.jpg)
+**Tags Data**
+![Tags_database](./img/tags_database.png)
 
-Above is the diagram on which the strategy for playing all the possible Soft Hands combinations was based.
+Above is an example of how it stores Tags information.
 
-### Pairs
-![Pairs](./Blackjack/img/Pairs.jpg)
+### Front-end
+**Login Page**
+![login_page](./img/login_page.png)
 
-Above is the diagram on which the strategy for playing all the possible Pairs combinations was based.
+Above is how the application's home page looks like.
 
-## Future Improvements for next versions:
+**New User**
+![new_user](./img/new_user.png)
 
-- Use of supervised or unsupervised learning algorithms to test other possible strategies and maximize the win rate of specific hands
-- Implementation of bankroll and betting logics
+Above is how the application's register page looks like.
 
+**Home Page**
+![home_page](./img/home_page.png)
 
+Above is how the application's home page after the login looks like.
 
+**Profile Page**
+![profile_page](./img/profile_page.png)
+
+Above is how the application's profile edit page looks like.
+
+**Using Filters**
+![filter](./img/filter.png)
+
+Above is how the application's filters looks like.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/thpgoncalves)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira-goncalves/)
