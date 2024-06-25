@@ -34,11 +34,13 @@ To make it easier to upgrade and maintain the code in the future, the REST archi
 ## Screenshots:
 ### Back-end
 **Auth Middleware**
+
 ![Auth_middleware](./img/auth_middleware.PNG)
 
 Above is an example of the authentication middleware to grant access to specific routes.
 
 **Routes**
+
 ![Routes](./img/notes_routes.PNG)
 
 Above is an example of the application using the authentication middleware to grant access to specific routes.
@@ -48,37 +50,44 @@ Above is an example of the application using the authentication middleware to gr
 
 ### Database
 **User Data**
+
 ![User_database](./img/user_database.PNG)
 
 Above is an example of how it stores User information.
 
 **Tags Data**
+
 ![Tags_database](./img/tags_database.PNG)
 
 Above is an example of how it stores Tags information.
 
 ### Front-end
 **Login Page**
+
 ![login_page](./img/login_page.PNG)
 
 Above is how the application's home page looks like.
 
 **New User**
+
 ![new_user](./img/new_user.PNG)
 
 Above is how the application's register page looks like.
 
 **Home Page**
+
 ![home_page](./img/home_page.PNG)
 
 Above is how the application's home page after the login looks like.
 
 **Profile Page**
+
 ![profile_page](./img/profile_page.PNG)
 
 Above is how the application's profile edit page looks like.
 
 **Using Filters**
+
 ![filter](./img/filter.PNG)
 
 Above is how the application's filters looks like.
