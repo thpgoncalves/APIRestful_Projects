@@ -44,42 +44,42 @@ Above is an example of the authentication middleware to grant access to specific
 Above is an example of the application using the authentication middleware to grant access to specific routes.
 
 **Encryption used to save passwords**
-![Encryption](./img/user_service.png)
+![Encryption](./img/user_service.PNG)
 
 ### Database
 **User Data**
-![User_database](./img/user_database.png)
+![User_database](./img/user_database.PNG)
 
 Above is an example of how it stores User information.
 
 **Tags Data**
-![Tags_database](./img/tags_database.png)
+![Tags_database](./img/tags_database.PNG)
 
 Above is an example of how it stores Tags information.
 
 ### Front-end
 **Login Page**
-![login_page](./img/login_page.png)
+![login_page](./img/login_page.PNG)
 
 Above is how the application's home page looks like.
 
 **New User**
-![new_user](./img/new_user.png)
+![new_user](./img/new_user.PNG)
 
 Above is how the application's register page looks like.
 
 **Home Page**
-![home_page](./img/home_page.png)
+![home_page](./img/home_page.PNG)
 
 Above is how the application's home page after the login looks like.
 
 **Profile Page**
-![profile_page](./img/profile_page.png)
+![profile_page](./img/profile_page.PNG)
 
 Above is how the application's profile edit page looks like.
 
 **Using Filters**
-![filter](./img/filter.png)
+![filter](./img/filter.PNG)
 
 Above is how the application's filters looks like.
 
